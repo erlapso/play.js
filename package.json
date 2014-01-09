@@ -7,9 +7,6 @@
         "type": "git", 
         "url": "http://github.com/Marak/play.js.git" 
     },
-    "dependencies": {
-       "colors": ">= 0.3.0"     
-     },    
     "engine": [
         "node >=0.1.90" 
     ],
